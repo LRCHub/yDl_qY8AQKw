@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "インフィニティ",
+  "base_artist": "シェリル・ノーム starring May'n",
+  "createdAt": "2025-12-31T12:04:45.610017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インフィニティ #7",
+      "artist": "ランカ・リー＝中島愛、シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/01_インフィニティ__7_ランカ・リー=中島愛、シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インフィニティ",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/02_インフィニティ_May'n.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Infinity [インフィニティ]",
+      "artist": "Sheryl Nome starring May'n",
+      "has_synced": true,
+      "path": "select/03_Infinity_[インフィニティ]_Sheryl_Nome_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "デス・インフィニティ",
+      "artist": "Wednesday 13",
+      "has_synced": false,
+      "path": "select/04_デス・インフィニティ_Wednesday_13.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インフィニティ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/05_インフィニティ_優里.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "インフィニティ #7",
+      "artist": "中島愛、May'n",
+      "has_synced": true,
+      "path": "select/06_インフィニティ__7_中島愛、May'n.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インフィニティ",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/07_インフィニティ_May'n.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "インフィニティ　＃７",
+      "artist": "Sheryl Nome starring May'n",
+      "has_synced": true,
+      "path": "select/08_インフィニティ__7_Sheryl_Nome_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "インフィニティ",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/09_インフィニティ_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "インフィニティ",
+      "artist": "优里",
+      "has_synced": true,
+      "path": "select/10_インフィニティ_优里.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "インフィニティ",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/11_インフィニティ_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "インフィニティ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/12_インフィニティ_優里.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "インフィニティ",
+      "artist": "Sheryl Nome starring May’n",
+      "has_synced": true,
+      "path": "select/13_インフィニティ_Sheryl_Nome_starring_May’n.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インフィニティ",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": false,
+      "path": "select/pl_01_インフィニティ_シェリル・ノーム_starring_May'n.txt"
+    }
+  ]
+}
